@@ -32,7 +32,7 @@ stages:
     - task: Docker@2
       inputs:
         containerRegistry: 'DockerHub'
-        repository: 'erikstell/evergreen:$(build.buildNumber)'
+        repository: 'erikstell/evergreen'
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
         tags: |
