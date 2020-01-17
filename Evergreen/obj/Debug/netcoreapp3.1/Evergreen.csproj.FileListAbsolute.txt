@@ -32,3 +32,4 @@ C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.Views.pdb
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.dll
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.pdb
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.csproj.CopyComplete
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.csprojAssemblyReference.cache
