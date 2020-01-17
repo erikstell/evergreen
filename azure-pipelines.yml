@@ -14,7 +14,7 @@ variables:
   imageRepository: 'erikstellevergreen'
   containerRegistry: 'brokertobrokerregistry.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Evergreen/Dockerfile'
-  imageName: 'quickdevnotes/webapp:$(build.buildNumber)'    
+  imageName: 'erikstell/evergreen:$(build.buildNumber)'    
   tag: '$(Build.BuildId)'
   
   # Agent VM image name
