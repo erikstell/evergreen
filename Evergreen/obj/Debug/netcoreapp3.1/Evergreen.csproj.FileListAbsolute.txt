@@ -2,7 +2,6 @@ C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\appsettings.Development
 C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.exe
-C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.csprojAssemblyReference.cache
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\staticwebassets\Evergreen.StaticWebAssets.Manifest.cache
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\staticwebassets\Evergreen.StaticWebAssets.xml
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.RazorAssemblyInfo.cache
@@ -21,3 +20,15 @@ C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImport
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.RazorTargetAssemblyInfo.cache
 C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.RazorTargetAssemblyInfo.cs
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.deps.json
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.runtimeconfig.json
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.runtimeconfig.dev.json
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.dll
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.pdb
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.Views.dll
+C:\Workspace\evergreen\Evergreen\bin\Debug\netcoreapp3.1\Evergreen.Views.pdb
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.Views.pdb
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.dll
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.pdb
+C:\Workspace\evergreen\Evergreen\obj\Debug\netcoreapp3.1\Evergreen.csproj.CopyComplete
