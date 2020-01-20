@@ -31,10 +31,10 @@ stages:
     steps:
     - task: Docker@2
       inputs:
-        containerRegistry: 'DockerHub'
-        repository: 'erikstell/evergreen'
+        containerRegistry: $(dockerRegistryServiceConnection)
+        repository: $(imageRepository)
         command: 'buildAndPush'
-        Dockerfile: '**/Dockerfile'
+        Dockerfile: $(dockerfilePath)
         tags: |
           $(tag)        
 
