@@ -11,7 +11,7 @@ resources:
 variables:
   # Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: '02bd7437-0c19-4345-a80f-1e42ba5623da'
-  imageRepository: 'erikstellevergreen'
+  imageRepository: 'erikstell/evergreen'
   containerRegistry: 'brokertobrokerregistry.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Evergreen/Dockerfile'
   imageName: 'erikstell/evergreen:latest'    
