@@ -14,7 +14,7 @@ variables:
   imageRepository: 'evergreen'
   containerRegistry: 'brokertobroker.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Evergreen/Dockerfile'
-  tag: '35'
+  tag: '$(Build.BuildId)'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
