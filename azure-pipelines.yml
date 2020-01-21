@@ -14,7 +14,7 @@ variables:
   imageRepository: 'evergreen'
   containerRegistry: 'brokertobroker.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Evergreen/Dockerfile'
-  tag: '$(Build.BuildId)'
+  tag: 'latest'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
@@ -33,7 +33,7 @@ stages:
       inputs:
         command: buildAndPush
         repository: $(imageRepository)
-        dockerfile: '**/Dockerfile'
+        dockerfile: '**/Dockerfile'        
         containerRegistry: $(dockerRegistryServiceConnection)
         tags: |
           $(tag)
